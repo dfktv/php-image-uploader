@@ -1,4 +1,7 @@
 <?php
+
+namespace RemoteImageUploader;
+
 /**
  * Simple Http Client inspired by PSR-7
  *

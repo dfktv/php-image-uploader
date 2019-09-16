@@ -2,8 +2,6 @@
 
 namespace RemoteImageUploader;
 
-use EasyRequest;
-
 class Helper
 {
     /**

@@ -4,7 +4,6 @@ namespace RemoteImageUploader;
 
 use ArrayAccess;
 use InvalidArgumentException;
-use EasyRequest;
 use Doctrine\Common\Cache\Cache;
 use Doctrine\Common\Cache\ArrayCache;
 
