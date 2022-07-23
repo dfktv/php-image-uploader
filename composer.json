@@ -1,12 +1,10 @@
 {
-    "name": "dfktv/php-image-uploader",
-    "description": "Library for uploading image to picasa, flickr, imgur, imageshack",
+    "name": "leknoppix/php-image-uploader",
+    "description": "Based of dfktv/php-image-uploader - Library for uploading image to picasa, flickr, imgur, imageshack",
     "keywords": ["php", "http", "image uploader", "remote upload"],
     "license": "MIT",
     "authors": [{
-        "name": "Phan Thanh Cong",
-        "email": "ptcong90@gmail.com",
-        "homepage": "http://ptcong.com"
+        "name": "Pascal Canadas"
     }],
     "require": {
         "php": ">=8.1",
